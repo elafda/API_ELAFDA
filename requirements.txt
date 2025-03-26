@@ -1,5 +1,4 @@
 fastapi
 uvicorn
-pyrebase4
-pydantic
+firebase-admin
 python-dotenv
